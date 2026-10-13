@@ -1,0 +1,1570 @@
+{
+ "1password": {
+  "merchant": "1Password",
+  "source_url": "https://support.1password.com/manage-subscription/",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Sign in at 1Password.com",
+   "Billing in sidebar > Cancel subscription"
+  ],
+  "channel": "web",
+  "notes": "Apple/Google purchases cancel via the store."
+ },
+ "adobe": {
+  "merchant": "Adobe",
+  "source_url": "https://helpx.adobe.com/account/individual/subscriptions-and-plans/renewals-and-cancellations/cancel-adobe-subscription.html",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Sign in to Adobe account > Plans and payment",
+   "Manage plan > Cancel your plan",
+   "Pick a reason and confirm"
+  ],
+  "channel": "web",
+  "notes": "Early-termination fees may apply on annual plans; check the page."
+ },
+ "alltrails": {
+  "merchant": "AllTrails",
+  "source_url": "https://support.alltrails.com/hc/en-us/articles/37208391282196-How-to-cancel-your-AllTrails-subscription",
+  "source_title": "How to cancel your AllTrails subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "It's easy to update your renewal settings.",
+   "However, the steps to disable auto-renew will vary depending on which platform you used to purchase your AllTrails subscription.",
+   "If you disable auto-renew on your account, you'll still have access to your AllTrails subscription for the remainder of your yearly billing period.",
+   "If needed, you can contact Apple's support team for help."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "amazon-prime": {
+  "merchant": "Amazon Prime",
+  "source_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GTJQ7QZY7QL2HK4Y",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Accounts & Lists > Prime Membership",
+   "Manage Membership > End Membership"
+  ],
+  "channel": "web",
+  "notes": "Unused benefits may qualify for refund."
+ },
+ "ancestry": {
+  "merchant": "Ancestry",
+  "source_url": "https://help.ancestry.com/hc/en-us/articles/53933302397331-Canceling-a-Membership",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "Canceling a Membership \u2013 Ancestry --> Ancestry Account and billing Canceling Canceling a Membership Canceling a Membership September 30, 2026 18:54 Updated --> Print --> You can cancel your Ancestry membership or trial at any time.",
+   "Canceling does not delete your family trees, DNA results, or Ancestry account.",
+   "To learn more, read Ancestry Accounts after Cancellation .",
+   "Canceling an Ancestry membership or trial Canceling your membership turns off automatic renewal and prevents future charges."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "apple-app-store-subscriptions": {
+  "merchant": "Apple (App Store subscriptions)",
+  "source_url": "https://support.apple.com/en-us/118428",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "Cancel a subscription from Apple on the web Cancel a subscription If you can't find the subscription that you want to cancel Cancel a subscription on your device You can use your device to cancel a subscription from Apple.",
+   "iPhone iPad Mac Vision Pro Windows PC Android Choose your device Cancel a subscription on your iPhone In Settings, tap your name.",
+   "You might need to scroll down to find the Cancel Subscription button.",
+   "If there is no Cancel button or you see an expiration message in red text, the subscription is already canceled."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "audible": {
+  "merchant": "Audible",
+  "source_url": "https://help.audible.com/s/article/cancel-membership?language=en_US",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Log in at audible.com > Account Details",
+   "Cancel membership and confirm"
+  ],
+  "channel": "web",
+  "notes": "Purchased titles remain."
+ },
+ "babbel": {
+  "merchant": "Babbel",
+  "source_url": "https://support.babbel.com/hc/en-gb/articles/205600298-Cancelling-a-subscription",
+  "source_title": "Cancelling a subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Most Babbel subscriptions are automatically renewed, but if you don't want to continue learning with us, you can easily cancel your subscription at any time up to the day before the renewal date.",
+   "How do I cancel my Babbel subscription?",
+   "You can view and manage your subscriptions on your Account Information page.",
+   "Please note that deleting the Babbel app from your device or canceling your account doesn't cancel your subscription!"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "backblaze": {
+  "merchant": "Backblaze",
+  "source_url": "https://help.backblaze.com/hc/en-us/articles/217665728-Canceling-and-Deleting-a-Backblaze-Account",
+  "source_title": "Canceling and Deleting a Backblaze Account",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "The steps to cancel an account will somewhat vary, based on the services that account is using.",
+   "The steps to cancel for each service are below.",
+   "If an account is using both the Online Backup and B2 Cloud Storage services, both sets of steps must be completed.",
+   "Canceling the Online Backup service: To cancel a personal Online Backup subscription, remove all registered backups and licenses."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "blue-bottle": {
+  "merchant": "Blue Bottle",
+  "source_url": "https://support.bluebottlecoffee.com/hc/en-us/articles/12692100669723-How-do-I-cancel-my-subscription",
+  "source_title": "How do I cancel my subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your subscription at any time.",
+   "Please note: gift subscriptions and prepaid installment plans cannot be cancelled, modified, or refunded.",
+   "If you have questions about your subscription type, our Guest Experience team is happy to help.",
+   "Make sure you're logged in by clicking the person icon on the homepage and then: Head to your subscription dashboard ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "box": {
+  "merchant": "Box",
+  "source_url": "https://support.box.com/hc/en-us/articles/360043694874-How-To-Cancel-Your-Box-Account-Subscription",
+  "source_title": "How To Cancel Your Box Account / Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "How you cancel your Box account depends on the type of account plan.",
+   "Deleting an Individual Account Canceling a Personal Pro Account Canceling a Business or Enterprise Account (only administrators can cancel) Deleting an Individual (Free) Account You can only delete an individual account (personal, free).",
+   "You cannot cancel it.",
+   "Click your account avatar in the upper right, and then select Account Settings ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "bumble": {
+  "merchant": "Bumble",
+  "source_url": "https://support.bumble.com/hc/en-us/articles/28534541366045-Canceling-subscriptions",
+  "source_title": "Canceling subscriptions",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "What happens to subscription access?",
+   "If you're requesting a refund for a subscription, it's a good idea to cancel future renewals separately too.",
+   "Canceling a subscription stops the next renewal, but you can usually keep access until the end of the period you've already paid for.",
+   "If Apple or Google Play approve a refund, you may lose access immediately."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "busuu": {
+  "merchant": "Busuu",
+  "source_url": "https://help.busuu.com/hc/en-gb/articles/16466204976785-How-do-I-cancel-my-subscription",
+  "source_title": "How do I cancel my subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "When you cancel, your Premium plan won't renew for the next period and you won\u2019t pay again.",
+   "You can still use Busuu Premium until your current subscription runs out.",
+   "You can cancel your subscription from the platform you used to make your payment.",
+   "Paid on the Busuu website ?"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "butcherbox": {
+  "merchant": "ButcherBox",
+  "source_url": "https://support.butcherbox.com/hc/en-us/articles/115012116548-How-do-I-reschedule-my-next-box-pause-or-cancel-my-membership",
+  "source_title": "How do I reschedule my next box, pause, or cancel my membership?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can delay your next box or cancel your subscription any time before your next order is billed.",
+   "To guarantee changes, please make all change by 11:59 pm EST the day before your bill date.",
+   "To delay your next box, or pause your subscription: Log in to your ButcherBox account Go to NEXT BOX Click RESCHEDULE and choose to delay your box 1 or 2 weeks, or pick a specific date up to 3 months away.",
+   "Make sure to save your changes."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "calm": {
+  "merchant": "Calm",
+  "source_url": "https://support.calm.com/hc/en-us/articles/115002473607-How-to-Cancel-Your-Subscription-or-Free-Trial",
+  "source_title": "How to Cancel Your Subscription or Free Trial",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your Calm Premium subscription or free trial at any time.",
+   "Once you cancel, you\u2019ll continue to have full Premium access until the end of your current billing or trial period.",
+   "Step 1: Identify where you purchased your Calm subscription How you cancel depends on where you bought your Calm subscription or trial.",
+   "Click your profile icon in the top-right corner."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "canva": {
+  "merchant": "Canva",
+  "source_url": "https://www.canva.com/help/cancel-canva-plan/",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Profile > Settings > Billing",
+   "Cancel plan > Continue cancellation > Cancel subscription"
+  ],
+  "channel": "web",
+  "notes": "App-store purchases cancel via the store."
+ },
+ "character-ai": {
+  "merchant": "Character.AI",
+  "source_url": "https://support.character.ai/hc/en-us/articles/17399592326555-How-do-I-manage-or-cancel-my-c-ai-subscription",
+  "source_title": "How do I manage or cancel my c.ai+ subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "This document provides comprehensive instructions for managing your c.ai+ subscription.",
+   "Please refer to the section relevant to your subscription method.",
+   "If your current plan has a Manage button, click on that to navigate to the Customer Portal Enter the email address associated with your Character.ai account.",
+   "A secure link to your customer portal will be sent to the provided email address."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "chatgpt": {
+  "merchant": "ChatGPT",
+  "source_url": "https://help.openai.com/en/articles/7232927-canceling-your-chatgpt-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Sign in to ChatGPT",
+   "Account menu > Settings > Billing",
+   "Under Cancel plan, select Cancel"
+  ],
+  "channel": "web",
+  "notes": "Cancel via Apple/Google if bought there; cancel 24h before renewal."
+ },
+ "claude": {
+  "merchant": "Claude",
+  "source_url": "https://support.claude.com/en/articles/8325617-cancel-your-pro-or-max-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Settings > Billing on claude.ai",
+   "Click Cancel"
+  ],
+  "channel": "web",
+  "notes": "App-store purchases cancel via the store. (Summary from search; page not fully read.)"
+ },
+ "codecademy": {
+  "merchant": "Codecademy",
+  "source_url": "https://help.codecademy.com/hc/en-us/articles/221031288-Cancel-Codecademy-Pro-Subscription",
+  "source_title": "Cancel Codecademy Pro Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your subscription anytime by following these steps: Complete verification on your account.",
+   "When the subscription is deactivated, you will no longer have access to Pro or Plus content or classes that you had completed while having a Pro or Plus subscription.",
+   "Should you wish to return at a later date, you'll be able to pick up where you left off.",
+   "Post-cancellation, your progress on lessons will remain the same."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "cookunity": {
+  "merchant": "CookUnity",
+  "source_url": "https://support.cookunity.com/hc/en-us/articles/45456252924827-How-do-I-cancel-my-subscription",
+  "source_title": "How do I cancel my subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "We\u2019re sorry to see you go.",
+   "If you need to cancel your CookUnity subscription, you can do it in just a few clicks by following the steps below.",
+   "Before you cancel, keep in mind that canceling your subscription stops future weeks , but it doesn\u2019t automatically cancel orders that were already processed/billed .",
+   "If you have an upcoming delivery that\u2019s already been processed, you may still receive it."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "cronometer": {
+  "merchant": "Cronometer",
+  "source_url": "https://support.cronometer.com/hc/en-us/articles/360028873772-How-do-I-cancel-my-Gold-Subscription",
+  "source_title": "How do I cancel my Gold Subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your Gold subscription by following the instructions below: If you purchased Gold on our Web version: Log in to the web version at http://cronometer.com Select the More tab from the menu on the left > Account sub-tab Scroll down to the Subscriptions section.",
+   "Use the drop-down menu to manage your subscription.",
+   "Select Do Not Auto-Renew from the drop-down menu.",
+   "If you purchased Gold from within the iOS app: On your iPhone or iPad, go to Settings Tap on your Apple ID icon at the top of the screen Tap Media and Purchases Tap Subscriptions Open the Cronometer subscription, and you can choose to cancel it from there."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "datacamp": {
+  "merchant": "DataCamp",
+  "source_url": "https://support.datacamp.com/hc/en-us/articles/360001546054-How-do-I-cancel-my-subscription",
+  "source_title": "How do I cancel my subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "\ud83e\udd16 Note: Articles in languages other than English are translated with the help of AI.",
+   "While we aim for accuracy, some wording may vary slightly.",
+   "If you notice anything that could be improved, we'd love to hear your feedback.",
+   "To cancel your subscription, please follow the steps outlined below: Log into your DataCamp account."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "deezer": {
+  "merchant": "Deezer",
+  "source_url": "https://support.deezer.com/hc/en-gb/articles/214349245-Cancel-Your-Deezer-Subscription",
+  "source_title": "Cancel Your Deezer Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your subscription at any time through the Deezer app or website.",
+   "If you cancel your Deezer Premium subscription, you'll still have access to your Premium features until the end of your current subscription period.",
+   "After that, your account will revert to Deezer Free and any downloaded music will no longer be playable offline.",
+   "All of your favorite tracks, playlists and content will still be visible, but some features, like unlimited skips, downloading and offline listening, are only available to paid subscribers."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "deleteme": {
+  "merchant": "DeleteMe",
+  "source_url": "https://help.joindeleteme.com/hc/en-us/articles/8176239350803-How-can-I-cancel-recurring-billing-on-my-DeleteMe-account",
+  "source_title": "How can I cancel recurring billing on my DeleteMe account?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel recurring billing by toggling off the auto-renew in your account anytime!",
+   "Follow these steps: Log in at joindeleteme.com.",
+   "Click Account in the left navigation.",
+   "Click Billing & Subscriptions ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "discord-nitro": {
+  "merchant": "Discord Nitro",
+  "source_url": "https://support.discord.com/hc/en-us/articles/19580873036695-How-to-Cancel-your-Nitro-Subscription",
+  "source_title": "How to Cancel your Nitro Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Note: If you want to cancel a different subscription on Discord, please check out the corresponding article: Server Boosting , Server subscription , or Premium App .",
+   "Note: If you want to request a refund for your subscription instead, please check out the Refund Policy Help Center article .",
+   "What this article covers: How to Cancel Nitro Subscription on Desktop/Browser How to Cancel Nitro Subscription on Mobile How Do I Re-Subscribe After Canceling My Subscription?",
+   "What if I Can\u2019t Access My Discord and Need to Cancel You can cancel your Nitro or Nitro Basic subscription at any time."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "disney": {
+  "merchant": "Disney+",
+  "source_url": "https://help.disneyplus.com/article/disneyplus-en-us-cancel",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Log in at DisneyPlus.com",
+   "Profile > Account > select subscription",
+   "Cancel Subscription"
+  ],
+  "channel": "web",
+  "notes": "Third-party billed: cancel with that provider."
+ },
+ "doordash-dashpass": {
+  "merchant": "DoorDash DashPass",
+  "source_url": "https://help.doordash.com/en-us/consumers/article/how-do-i-cancel-my-dashpass-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "How do I cancel my DashPass subscription?",
+   "DoorDash Help Center / Customer Support / DashPass / How do I cancel my DashPass subscription?",
+   "How do I cancel my DashPass subscription?",
+   "1 min read How do I cancel my DashPass membership?"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "dropbox": {
+  "merchant": "Dropbox",
+  "source_url": "https://help.dropbox.com/plans/downgrade-dropbox-individual-plans",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Log in to dropbox.com",
+   "Click your avatar > Manage account",
+   "Click Cancel plan at the bottom",
+   "Select a reason and confirm"
+  ],
+  "channel": "web",
+  "notes": "If bought on mobile, cancel via Apple/Google. Mail cancellation also offered."
+ },
+ "duolingo": {
+  "merchant": "Duolingo",
+  "source_url": "https://www.duolingo.com/help/12/cancel-my-super-duolingo-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Web: Settings > Super Duolingo > Cancel subscription",
+   "App: cancel via the store you subscribed through"
+  ],
+  "channel": "app_or_web",
+  "notes": "Deleting the app does not stop billing."
+ },
+ "elevate": {
+  "merchant": "Elevate",
+  "source_url": "https://support.elevateapp.com/hc/en-us/articles/38342436482331-How-do-I-cancel-my-Elevate-subscription",
+  "source_title": "How do I cancel my Elevate subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Elevate subscriptions are set to auto-renew.",
+   "Stripe (Web): If you don't see your subscription listed under Apple or Google, it's possible you subscribed via the web (Stripe).",
+   "Open Elevate Tap Me Tap Settings (gear in top corner) Tap Account Status Tap 'Cancel service.' Select the reason for canceling and tap 'Continue.' Tap 'Cancel service' again If you would like to request a refund, please see the refund instructions here .",
+   "If you have any trouble canceling your subscription, please contact us , and we will be happy to assist you!"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "elevenlabs": {
+  "merchant": "ElevenLabs",
+  "source_url": "https://help.elevenlabs.io/hc/en-us/articles/24489536934673-How-do-I-downgrade-or-cancel-my-subscription",
+  "source_title": "How do I downgrade or cancel my subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "When you cancel or downgrade your subscription, this won't take effect until the end of your current billing cycle.",
+   "When this happens, you will lose any unused credits on your account.",
+   "For full details on how to downgrade or cancel your subscription, see the following articles: How can I downgrade my subscription?",
+   "How do I cancel my subscription?"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "evernote": {
+  "merchant": "Evernote",
+  "source_url": "https://help.evernote.com/hc/en-us/articles/115005949208-How-to-cancel-your-Evernote-subscription",
+  "source_title": "How to cancel your Evernote subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "When you cancel your Evernote subscription (Personal, Professional, Starter or Advanced), your subscription will remain active until the end of your current billing cycle.",
+   "After that, your subscription will be canceled, and your account will automatically revert to Evernote Free.",
+   "You won't lose your contents None of your data will be lost, and you will retain access to all your notes and notebooks, even if you cancel your subscription and your account is downgraded to Free.",
+   "If your account is downgraded to Free and you have more than 50 notes, you won't be able to create new notes."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "fastmail": {
+  "merchant": "Fastmail",
+  "source_url": "https://www.fastmail.help/hc/en-us/articles/1500000277342-Canceling-and-deleting-accounts",
+  "source_title": "Canceling and deleting accounts",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your account at any time, and no further payments will be required.",
+   "If there are multiple users in your account, you must first delete all users other than yourself before the account can be canceled.",
+   "Deleting users Information on deleting users as an admin can be found here .",
+   "Canceling your account Once all users have been deleted, you can cancel your account by following these steps: Go to the Settings \u2192 Billing & Plan screen."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "fitbod": {
+  "merchant": "Fitbod",
+  "source_url": "https://help.fitbod.me/hc/en-us/articles/360006368934-How-to-Cancel-or-Request-a-Refund-for-Your-Fitbod-Subscription",
+  "source_title": "How to Cancel or Request a Refund for Your Fitbod Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Where you cancel or request a refund depends on where you originally subscribed \u2014 Fitbod's website, the Apple App Store, or the Google Play Store.",
+   "Use the section below that matches your signup method.",
+   "Table of Contents Cancel or request a Refund via Fitbod's Website Cancel or request a Refund via Apple App Store Cancel or request a Refund via Google Play Store Cancel Anytime Policy Still Need Help?",
+   "Not sure where you subscribed?"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "flo": {
+  "merchant": "Flo",
+  "source_url": "https://help.flo.health/hc/en-us/articles/360057837892-How-do-I-cancel-a-web-subscription",
+  "source_title": "How do I cancel a web subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "If you purchased your subscription directly on our website ( app.flo.health ), you can manage your plan at any time through the Flo app or your web browser.",
+   "Confirm your payment method These steps are only for subscriptions purchased on the Flo website (look for \u201cFlo Health\u201d or \u201cStripe\u201d on your receipt).",
+   "If you subscribed via Apple or Google, please follow the instructions in the following articles: How can I cancel my subscription?",
+   "(iOS) How can I cancel my subscription?"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "github-copilot": {
+  "merchant": "GitHub Copilot",
+  "source_url": "https://docs.github.com/en/copilot/how-tos/manage-your-account/view-and-change-your-copilot-plan",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Profile > Settings > Billing & licensing > Licensing",
+   "GitHub Copilot > Manage subscription > Cancel subscription"
+  ],
+  "channel": "web",
+  "notes": "Reverts to Copilot Free at cycle end."
+ },
+ "goodrx": {
+  "merchant": "GoodRx",
+  "source_url": "https://support.goodrx.com/hc/en-us/articles/37240508207515-How-do-I-cancel-my-GoodRx-Care-Direct-subscription",
+  "source_title": "How do I cancel my GoodRx Care Direct subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your GoodRx Care Direct subscription at any time by following these steps: Log in to your GoodRx account at GoodRx.com.",
+   "Click the account or menu icon in the upper right corner.",
+   "Choose your ED subscription.",
+   "If you have any questions or need additional assistance, feel free to reach out to our support team at support@goodrx.com or 855-526-3318."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "google-one": {
+  "merchant": "Google One",
+  "source_url": "https://support.google.com/googleone/answer/9056360",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Go to Google One",
+   "Click Settings > Cancel membership",
+   "Confirm Cancel membership"
+  ],
+  "channel": "web",
+  "notes": "Benefits last until end of billing cycle."
+ },
+ "grammarly": {
+  "merchant": "Grammarly",
+  "source_url": "https://support.grammarly.com/hc/en-us/articles/115000090172-How-do-I-cancel-my-subscription",
+  "source_title": "How do I cancel my subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Canceling a subscription stops its automatic renewal, but you will still have access to all paid features for the duration of your current subscription period.",
+   "To cancel your subscription, follow these steps: Sign in to your account and click on the Account tab in the left sidebar.",
+   "Click on Your account \u2192 Subscription in the menu that appears next.",
+   "Click Cancel Subscription at the bottom of the page."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "hbo-max": {
+  "merchant": "HBO Max",
+  "source_url": "https://help.hbomax.com/cancel",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Check who bills you at hbomax.com/subscription",
+   "If billed directly: Cancel Your Subscription and confirm"
+  ],
+  "channel": "web",
+  "notes": "Third-party billed: cancel with that provider."
+ },
+ "headspace": {
+  "merchant": "Headspace",
+  "source_url": "https://help.headspace.com/hc/en-us/articles/115008364988-How-do-I-cancel-my-subscription",
+  "source_title": "How do I cancel my subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Cancellation steps can differ depending on where you subscribed (directly through us, Apple App Store, or Google Play).",
+   "If you're not sure how you purchased your current subscription, click HERE for instructions on viewing your subscription details.",
+   "Please review below to see the steps that apply to you: If you purchased your subscription from directly from Headspace via our website (on your computer or mobile browser): Log in to your account from a desktop or mobile browser (not the mobile app) at www.headspace.com .",
+   "Visit https://www.headspace.com/subscription/manage and click/tap on the CANCEL MEMBERSHIP link."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "hevy": {
+  "merchant": "Hevy",
+  "source_url": "https://help.hevyapp.com/hc/en-us/articles/34953163743639-Hevy-Subscription-Guide-Cancel-or-Change-Your-Plan-Easily",
+  "source_title": "Hevy Subscription Guide: Cancel or Change Your Plan Easily",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Cancelling a subscription made on an Apple device If you purchased Hevy Pro through an Apple device, you will need to cancel your subscription through the Apple App Store.",
+   "Click here for Apple\u2019s cancellation instructions.",
+   "Cancelling a subscription made on an Android device If you purchased Hevy Pro through an Android device, you will need to cancel your subscription through the Google Play Store.",
+   "Click here for Google Play\u2019s cancellation instructions."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "hinge": {
+  "merchant": "Hinge",
+  "source_url": "https://help.hinge.co/hc/en-us/articles/36311108859411-Adjusting-or-Canceling-Your-Subscription",
+  "source_title": "Adjusting or Canceling Your Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "A Hinge+ or HingeX subscription unlocks premium features designed to help you make meaningful connections.",
+   "Whether you\u2019re adjusting or canceling your subscription, we\u2019ve created the guides below to assist you.",
+   "Choose a topic below to jump to that section: Changing your Payment Method Upgrading your Subscription Downgrading your Subscription Deleting your Account or the Hinge App Canceling your Subscription Need a Refund?",
+   "Changing Your Payment Method If you need to update your payment method, you\u2019ll need to do so on the platform where you originally subscribed."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "home-chef": {
+  "merchant": "Home Chef",
+  "source_url": "https://support.homechef.com/hc/en-us/articles/210097853-How-do-I-cancel-my-subscription",
+  "source_title": "How do I cancel my subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Cancelling your subscription with Home Chef is easy.",
+   "Our flexible subscription allows you to skip orders or cancel your subscription at any time, for as long as you need.",
+   "Pausing is an effective cancelation.",
+   "Please note that following these steps below, although called pausing, will cancel your subscription with us, but if you'd like to start receiving meals again, you may log back in and reactivate at any time."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "hulu": {
+  "merchant": "Hulu",
+  "source_url": "https://help.hulu.com/article/hulu-cancel-hulu-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Open your Account page in a browser",
+   "Select Cancel under Your Subscription",
+   "Continue to Cancel > Cancel Subscription"
+  ],
+  "channel": "web",
+  "notes": "Third-party billed: cancel with that provider."
+ },
+ "instacart": {
+  "merchant": "Instacart+",
+  "source_url": "https://www.instacart.com/help/section/107169420/423178048",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Menu/Account > Your Instacart+ membership",
+   "Cancel membership > Continue to cancel > Confirm cancellation"
+  ],
+  "channel": "web",
+  "notes": ""
+ },
+ "jasper": {
+  "merchant": "Jasper",
+  "source_url": "https://help.jasper.ai/hc/en-us/articles/55319153502747-Cancel-Your-Account-Pro-Plan",
+  "source_title": "Cancel Your Account (Pro Plan)",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "How to Cancel Your Account You can cancel your account at any time inside Jasper by doing the following: Click on your workspace name in the top left corner.",
+   "Click on Workspace Settings .",
+   "Scroll to the very bottom Click on the Cancel button.",
+   "Follow all the promptings in-app."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "kobo-plus": {
+  "merchant": "Kobo Plus",
+  "source_url": "https://help.kobo.com/hc/en-us/articles/360017753834-Cancel-your-audiobook-subscription",
+  "source_title": "Cancel your audiobook subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Here are a few things to keep in mind when you cancel your audiobooks subscription: Audiobooks remain in your Kobo account, even after you cancel your subscription.",
+   "Audiobook credits stay in your Kobo account for six months beginning from the cancellation date.",
+   "Audiobook credits are non-refundable.",
+   "To cancel your subscription: Go to Kobo.com."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "krisp": {
+  "merchant": "Krisp",
+  "source_url": "https://help.krisp.ai/hc/en-us/articles/4404752755730-Cancel-the-subscription-for-your-Krisp-account",
+  "source_title": "Cancel the subscription for your Krisp account",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Who can use this feature?",
+   "Plan: Core/Advanced Managed from: Admin Dashboard This article explains how to cancel the monthly or yearly subscription plan of your Krisp account.",
+   "To cancel the subscription: Sign in to your Krisp account dashboard .",
+   "Go to Settings >>> Billing >>> Plan Details ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "linkedin-premium": {
+  "merchant": "LinkedIn Premium",
+  "source_url": "https://www.linkedin.com/help/linkedin/answer/a545578",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Desktop: Me > Premium features > Manage subscription",
+   "Cancel subscription"
+  ],
+  "channel": "web",
+  "notes": "Apple purchases cancel in the LinkedIn mobile app or Apple."
+ },
+ "lovevery": {
+  "merchant": "Lovevery",
+  "source_url": "https://help.lovevery.com/hc/en-us/articles/27689106748173-How-do-I-cancel-my-subscription",
+  "source_title": "How do I cancel my subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your Play Kits Subscription at any time.",
+   "Please do so at least 3 days before your next shipping date for the cancellation to take effect.",
+   "Please note: if you have already received a recent order and/or shipping confirmation email, canceling your subscription will not cancel your active order.",
+   "To cancel, sign in to your account and click on Account Settings ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "match": {
+  "merchant": "Match",
+  "source_url": "https://help.match.com/hc/en-us/articles/6077124196891-Canceling-a-Match-Subscription",
+  "source_title": "Canceling a Match Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "This guide explains how to cancel subscriptions / turn off auto-renewal, add-on features, free trials, or your membership on Match.",
+   "How to Cancel Your Match Subscription, Features, or Account: You can cancel your subscription, free trial, or add-on features via Manage Subscription in your account settings on the app, mobile web, or desktop.",
+   "Canceling a subscription turns off auto-renewal, while canceling add-ons stops them from renewing at the next billing cycle.",
+   "To delete your membership entirely, cancel your account\u2014your profile and photos will be hidden, but your data is retained per our Privacy Policy."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "microsoft-365": {
+  "merchant": "Microsoft 365",
+  "source_url": "https://support.microsoft.com/en-US/accounts-billing/subscriptions/cancel-a-microsoft-365-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Go to account.microsoft.com/services/microsoft365 and sign in with the purchasing account",
+   "Select Cancel subscription (may say Upgrade or Cancel)",
+   "Review the page and choose I don't want my subscription"
+  ],
+  "channel": "web",
+  "notes": "Third-party/app-store purchases must be cancelled with that seller."
+ },
+ "midjourney": {
+  "merchant": "Midjourney",
+  "source_url": "https://docs.midjourney.com/hc/en-us/articles/25384024738573-Canceling-Your-Subscription",
+  "source_title": "Canceling Your Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your Midjourney subscription at any time by going to your Manage Subscription Page and clicking the Cancel Plan button.",
+   "Your cancellation will become effective at the end of your current billing cycle, and you'll still have access to all of your subscription features\u2014including any remaining Fast time\u2014until then.",
+   "Canceling your subscription does not delete your generated images or account history.",
+   "Any private images you have will stay private."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "miro": {
+  "merchant": "Miro",
+  "source_url": "https://help.miro.com/hc/en-us/articles/360011986179-Cancel-your-Miro-subscription",
+  "source_title": "Cancel your Miro subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Who can do it: Team admins, Billing admins, Company admins Which plans: Starter, Business Which platforms: Browser, Desktop You can cancel your subscription at any time.",
+   "After cancellation, you will still have access to paid features until the end of the current billing period.",
+   "Understanding the cancellation process and its implications allows for a smooth transition, whether you are moving to a different plan or no longer require the service.",
+   "Cancel your Business or Starter subscription Ensure you have switched to the team associated with the subscription you want to cancel."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "myfitnesspal": {
+  "merchant": "MyFitnessPal",
+  "source_url": "https://support.myfitnesspal.com/hc/en-us/articles/360032625371-How-to-cancel-your-Premium-subscription-renewal",
+  "source_title": "How to cancel your Premium subscription renewal",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "This article explains how to turn off auto-renewal for your active Premium subscription on iOS, Android, and our Website.",
+   "Important things to note: You can cancel your recurring subscription at any time before your next renewal date.",
+   "If you cancel less than 24 hours before the renewal, your membership or subscription may still renew.",
+   "You are canceling the next billing charge."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "netflix": {
+  "merchant": "Netflix",
+  "source_url": "https://help.netflix.com/en/node/407",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "How to cancel Netflix | Netflix Help Center Help Center Join Netflix Sign In Help Center Back to Help Home How to cancel Netflix A country must be selected to view content in this article.",
+   "You can cancel your Netflix account at any time.",
+   "\u200b Under Cancel , tap or click Finish Cancellation .",
+   "Note: This is the only way to cancel your account and end your membership."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "new-york-times": {
+  "merchant": "New York Times",
+  "source_url": "https://help.nytimes.com/115003007668-Manage-Account/360003499613-Cancel-Your-Subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "Cancel Your Subscription - The New York Times Help Center Due to higher than normal volume, we anticipate long wait times.",
+   "HELP CENTER Your Account | NYTimes.com Help > Account Management > Manage Account Cancel Your Subscription Learn about the different ways you can cancel your New York Times subscription.",
+   "Cancel Your New York Times Subscription Did you know?",
+   "You can cancel your subscription in Account."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "notion": {
+  "merchant": "Notion",
+  "source_url": "https://www.notion.com/help/upgrade-or-downgrade-your-plan",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "If you've purchased a subscription through the Apple App Store, you'll need to contact the Apple App Store directly for any issues with your subscription, including cancellations and refunds.",
+   "Learn about how your features may be impacted after a downgrade here \u2192 How do I cancel my paid plan?",
+   "Your Notion subscription, annual or monthly, will automatically renew until you cancel it.",
+   "You can cancel your subscription by going to Settings in the left-hand sidebar on a desktop computer, then selecting Billing , then Change plan ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "otter": {
+  "merchant": "Otter",
+  "source_url": "https://help.otter.ai/hc/en-us/articles/23346776714903-Cancel-an-Otter-subscription",
+  "source_title": "Cancel an Otter subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "This guide provides a comprehensive overview and general steps for canceling an Otter subscription.",
+   "For more specific and detailed instructions, click the option below that best matches your plan.",
+   "Cancel your Business subscription Cancel your Pro subscription Cancel your Business trial Note: Canceling your subscription is not the same as deleting your account.",
+   "Learn more about deleting your account ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "paramount": {
+  "merchant": "Paramount+",
+  "source_url": "https://help.paramountplus.com/s/article/PD-How-can-I-cancel-my-Paramount-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Sign in at paramountplus.com/account",
+   "Select Cancel Subscription"
+  ],
+  "channel": "web",
+  "notes": "Third-party billed: cancel with that provider."
+ },
+ "patreon": {
+  "merchant": "Patreon",
+  "source_url": "https://support.patreon.com/hc/en-us/articles/360005502572-Canceling-a-paid-membership",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Settings > Memberships > select membership",
+   "View Details > Cancel membership"
+  ],
+  "channel": "web",
+  "notes": "Pending bills may still process."
+ },
+ "peacock": {
+  "merchant": "Peacock",
+  "source_url": "https://www.peacocktv.com/help/article/cancellation",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Log in > Account > Plans & Payment",
+   "Cancel Plan and confirm"
+  ],
+  "channel": "web",
+  "notes": "Third-party billed: cancel with that provider."
+ },
+ "peloton": {
+  "merchant": "Peloton",
+  "source_url": "https://support.onepeloton.com/s/article/Peloton-Membership-How-to-Manage-Your-All-Access-Membership",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Go to onepeloton.com/mymembership",
+   "Select Manage > Pause or cancel"
+  ],
+  "channel": "web",
+  "notes": "App memberships bought via third parties cancel there."
+ },
+ "picsart": {
+  "merchant": "Picsart",
+  "source_url": "https://support.picsart.com/hc/en-us/articles/360002231957-How-to-cancel-your-Picsart-subscription",
+  "source_title": "How to cancel your Picsart subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "IMPORTANT: Deleting the Picsart app or your Picsart account won\u2019t automatically cancel your subscription.",
+   "Mobile: How do I cancel my Picsart subscription on my phone?",
+   "If you bought your subscription in the Picsart app, you cancel it in your app store.",
+   "The Picsart app does not show subscription settings."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "playstation-plus": {
+  "merchant": "PlayStation Plus",
+  "source_url": "https://www.playstation.com/en-us/support/subscriptions/cancel-playstation-plus/",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Sign in to Account Management > Subscription",
+   "Cancel Subscription next to PlayStation Plus"
+  ],
+  "channel": "web",
+  "notes": "PS5: Settings > Users and Accounts > Account > Payment and Subscriptions."
+ },
+ "private-internet-access": {
+  "merchant": "Private Internet Access",
+  "source_url": "https://helpdesk.privateinternetaccess.com/hc/en-us/articles/46565550505627-How-Do-I-Cancel-My-Subscription",
+  "source_title": "How Do I Cancel My Subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "How you cancel your Private Internet Access (PIA) subscription depends on where you purchased it: Purchased directly from the PIA website: Cancel via the PIA Client Control Panel.",
+   "Purchased through the Apple App Store or Google Play Store: Cancel via your app store settings.",
+   "Purchased with cryptocurrency: There is nothing to cancel.",
+   "Your subscription is a one-time purchase and will simply expire at the end of the paid term unless you choose to manually renew it."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "replika": {
+  "merchant": "Replika",
+  "source_url": "https://help.replika.com/hc/en-us/articles/360032500012-How-to-cancel-your-subscription",
+  "source_title": "How to cancel your subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Please note: Deleting the app does not cancel your subscription.",
+   "Renewals happen automatically unless you cancel ahead of time.",
+   "To avoid any unexpected charges, make sure the cancellation is completed through the same platform you used to subscribe.",
+   "Contact PayPal Support Note: We do not manage PayPal, App Store, or Google Play subscriptions on our side."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "runway": {
+  "merchant": "Runway",
+  "source_url": "https://help.runwayml.com/hc/en-us/articles/21668396605971-How-do-I-cancel-my-plan",
+  "source_title": "How do I cancel my plan?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "This means you\u2019ll still have access to the paid features until the renewal date.",
+   "If the Cancel plan button is inactive on your billing page, this means that your subscription is already scheduled for cancellation at the end of your current billing cycle and your plan will not renew.",
+   "The cancellation date will be indicated by the Expires on...",
+   "This likely means that your renewal date recently passed, and your subscription wasn\u2019t cancelled before then."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "scribd": {
+  "merchant": "Scribd",
+  "source_url": "https://support.scribd.com/hc/en-us/articles/210134046-How-to-cancel-your-Scribd-subscription",
+  "source_title": "How to cancel your Scribd subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Your subscription covers both Scribd and Slideshare, so canceling here stops both.",
+   "Everand subscriptions are separate.",
+   "See How to cancel your Everand subscription .",
+   "Cancelling your Scribd or Slideshare subscription Sign in on the Scribd website, then: Head to Your account ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "setapp": {
+  "merchant": "Setapp",
+  "source_url": "https://support.setapp.com/hc/en-us/articles/214288385-Cancel-subscription",
+  "source_title": "Cancel subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "If the reason for canceling is a technical issue, please contact our Support Team .",
+   "We'll gladly get your feedback and do our best to resolve the issue.",
+   "To discontinue your subscription, do the following: Go to the Subscription page of your Setapp account and click \"Manage subscription.\" Click \"Cancel subscription\" at the bottom of the page.",
+   "Choose answers in a cancellation survey, then confirm your action."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "shopify": {
+  "merchant": "Shopify",
+  "source_url": "https://help.shopify.com/en/manual/your-account/manage-orgs-and-stores/manage-pricing-plan/pause-store",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "Click Cancel plan again to view all available options.",
+   "Tap Cancel plan again to view all available options.",
+   "If you want to pause your apps, then you need to cancel them individually."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "siriusxm": {
+  "merchant": "SiriusXM",
+  "source_url": "https://www.siriusxm.com/help/manage-or-cancel-service",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "Explore what SiriusXM has to offer Music Sports Talk News Podcasts Help Center Add New Vehicle Sweepstakes Discover Channel Guide Subscriptions Help & Support Start Listening Help Center Manage or Cancel Service Help Center Help Center How do I manage or cancel my service?",
+   "The account management and cancellation steps vary by provider (who you signed up through or who bills you for your SiriusXM service).",
+   "To cancel your subscription you can either: Go to the Subscriptions tab in the Online Account Center Chat with an agent now Call 866-635-8641 Visit our Contact Us page for our call center hours.",
+   "For instructions on how to cancel a subscription purchased on your Apple device through the App Store follow the instructions for Apple Subscription Cancellation ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "skillshare": {
+  "merchant": "Skillshare",
+  "source_url": "https://help.skillshare.com/hc/en-us/articles/115001701651-How-do-I-cancel-my-Skillshare-subscription",
+  "source_title": "How do I cancel my Skillshare subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your Skillshare subscription from your Account settings if you signed up on skillshare.com .",
+   "If you subscribed through the iOS App Store or Google Play , you\u2019ll cancel directly through that app store.",
+   "Cancel your subscription On desktop Go to Account settings on skillshare.com .",
+   "Select Membership & Payments from the left menu."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "slack": {
+  "merchant": "Slack",
+  "source_url": "https://slack.com/help/articles/48764458651795-Change-or-cancel-your-paid-Slack-plan",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Admin > Manage billing > Overview",
+   "Change subscription details > Downgrade to Free",
+   "Review and select Downgrade Slack"
+  ],
+  "channel": "web",
+  "notes": "Workspace admins only."
+ },
+ "sling-tv": {
+  "merchant": "Sling TV",
+  "source_url": "https://www.sling.com/help/en/account-questions/account-changes/pause-cancel-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Sign in at sling.com > Manage Account",
+   "Cancel Subscription and confirm"
+  ],
+  "channel": "web",
+  "notes": "Pause is also offered; no partial-month refunds."
+ },
+ "soundcloud": {
+  "merchant": "SoundCloud",
+  "source_url": "https://help.soundcloud.com/hc/en-us/articles/360056011234-Cancel-your-subscription",
+  "source_title": "Cancel your subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Managing your SoundCloud subscription is straightforward.",
+   "From adjusting your plan to canceling or renewing, SoundCloud provides complete control over your experience.",
+   "This article explains how to cancel your subscription and what you will lose out on when you do so.",
+   "What happens when I cancel my Artist subscription?"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "spotify": {
+  "merchant": "Spotify",
+  "source_url": "https://support.spotify.com/us/article/cancel-premium/",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "How to cancel Premium plans - Spotify Spotify Support Site Explore Premium Install App Sign up Log in Home Payments & billing How to cancel Premium plans Ask You're engaging with an AI-powered tool.",
+   "How to cancel Premium plans Cancel your Premium plan any time on your account page.",
+   "Select Cancel subscription .",
+   "Note: If you cancel during a zero-priced free trial period, your account will switch over to our free service immediately."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "squarespace": {
+  "merchant": "Squarespace",
+  "source_url": "https://support.squarespace.com/hc/en-us/articles/205810508-Cancel-your-website-subscription",
+  "source_title": "Cancel your website subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "End your site subscription and review your access after a site is canceled.",
+   "You can cancel your website subscription through the Billing panel .",
+   "You can cancel your site immediately for a refund if you're in the refund window , or stop service at the end of your billing cycle.",
+   "You can access some content on your site after canceling, and review other subscriptions to cancel."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "strava": {
+  "merchant": "Strava",
+  "source_url": "https://support.strava.com/en-us/articles/15401936-how-to-cancel-your-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Log in > Settings > My Account",
+   "Cancel Subscription"
+  ],
+  "channel": "web",
+  "notes": "Cancel 24h before renewal; app-store purchases via store."
+ },
+ "substack": {
+  "merchant": "Substack",
+  "source_url": "https://support.substack.com/hc/en-us/articles/360037489252-How-do-I-cancel-my-paid-subscription-on-Substack",
+  "source_title": "How do I cancel my paid subscription on Substack?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "To cancel a paid subscription, head to the Substack's Manage subscription page on the web.",
+   "You'll keep paid access until the end of the billing period you've paid for and you won't be charged again.",
+   "If you subscribed in the Substack iOS app, you'll need to cancel through the Apple App Store.",
+   "In-app paid subscriptions don't include the option to pause."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "sunbasket": {
+  "merchant": "Sunbasket",
+  "source_url": "https://support.sunbasket.com/hc/en-us/articles/42005210894483-How-do-I-cancel-my-Sunbasket-subscription",
+  "source_title": "How do I cancel my Sunbasket subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Log In : Go to sunbasket.com and sign in to your account.",
+   "Navigate to Account Settings : Click on your profile name or icon, then select Account Settings Manage Subscription : Click on Manage My Subscription Cancel Subscription : Click on Cancel My Subscription Confirm Cancellation : Follow the prompts to confirm your cancellation.",
+   "You will be asked to provide a reason for canceling.",
+   "After cancellation, you should receive a confirmation email from Sunbasket."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "superhuman": {
+  "merchant": "Superhuman",
+  "source_url": "https://help.superhuman.com/hc/en-us/articles/46005769279373-Cancelling-Your-Subscription",
+  "source_title": "Cancelling Your Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Individual Users To cancel your Superhuman Mail subscription, hit Cmd+K (Mac) or Ctrl+K (Windows) \u2192 Cancel Subscription or log into superhuman.com/admin .",
+   "Non-Contracted Team Users If you are a member of a non-contracted team, reach out to your admin to cancel your subscription.",
+   "Alternatively, you can hit Cmd+K or Ctrl+K \u2192 Billing Support to have our team cancel your subscription and remove you from the team.",
+   "If you are an admin of a non-contracted team, you can remove members by hitting Cmd+K or Ctrl+K \u2192 Manage Team or by logging into superhuman.com/admin ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "surfshark": {
+  "merchant": "Surfshark",
+  "source_url": "https://support.surfshark.com/hc/en-us/articles/360003069694-How-to-cancel-auto-renewal-for-your-Surfshark-subscription",
+  "source_title": "How to cancel auto-renewal for your Surfshark subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Auto\u2011renewal can be canceled at any time to prevent future charges.",
+   "Canceling auto\u2011renewal does not end access immediately \u2014 the subscription remains active until the end of the current billing period .",
+   "The cancellation steps depend on where the subscription was purchased.",
+   "Cancel a subscription purchased on the Surfshark website Auto\u2011renewal can be canceled directly from the Surfshark account."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "sweat": {
+  "merchant": "Sweat",
+  "source_url": "https://support.sweat.com/hc/en-us/articles/115005736208-How-do-I-cancel-my-Sweat-app-subscription",
+  "source_title": "How do I cancel my Sweat app subscription?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your Sweat app subscription at any time to avoid future payments, but we will be sad to see you go.",
+   "When cancelling your Sweat app subscription, the following applies: Please ensure that you are using version 7.1 or higher of the Sweat app before following the steps below.",
+   "You can update your app through the App Store.",
+   "Please note that deleting the app does not cancel your subscription."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "t-mobile": {
+  "merchant": "T-Mobile",
+  "source_url": "https://www.t-mobile.com/support/account/cancel-service",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "Cancel service support | T-Mobile Support: Help with Devices, Plans, Billing & More Support New to T-Mobile?",
+   "Before you cancel, give us a call - we'd love the opportunity to review your account and see what options we can offer to keep you with T-Mobile.",
+   "Important things to know before you cancel.",
+   "Canceling can impact your account, billing, promotions, and equipment financing."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "talkspace": {
+  "merchant": "Talkspace",
+  "source_url": "https://help.talkspace.com/hc/en-us/articles/18382518287771-How-Do-I-Cancel-My-Talkspace-Go-Subscription-or-Trial-Can-I-Receive-a-Refund",
+  "source_title": "How Do I Cancel My Talkspace Go Subscription or Trial? Can I Receive a Refund?",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "If you no longer need your Talkspace Go subscription, see below for options regarding your account.",
+   "Cancelling Talkspace Go Subscription Deleting Talkspace Go Account Refund Process Cancelling a Talkspace Go subscription It's completely okay if you want to cancel your Talkspace Go subscription.",
+   "Here's the good news: None of your answers to the self-guided sessions will be lost, and you are able to resubscribe at any time.",
+   "To cancel your subscription, you must cancel from wherever you purchased it: From Apple store- Check out the cancellation process here ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "the-atlantic": {
+  "merchant": "The Atlantic",
+  "source_url": "https://support.theatlantic.com/hc/en-us/articles/360049276854-Cancel-your-Atlantic-subscription",
+  "source_title": "Cancel your Atlantic subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Cancel through your Atlantic account by selecting Subscription, Manage Subscription, then Cancel, or contact Customer Care.",
+   "Subscriptions continue through the current term without renewal or refund.",
+   "Third-party subscriptions must be canceled through the provider.",
+   "How do I cancel my subscription?"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "tidal": {
+  "merchant": "Tidal",
+  "source_url": "https://support.tidal.com/hc/en-us/articles/201314601-Cancel-Tidal-Subscription-or-Trial",
+  "source_title": "Cancel Tidal Subscription or Trial",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your subscription or trial at any time.",
+   "If you are paying for Tidal through a third-party, such as Apple or Google Play, you will need to cancel through them directly.",
+   "If you do not see an Active subscription within Apple Wallet, this means you're being billed through another payment method.",
+   "You can confirm your Apple account status by contacting Apple Support directly."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "tile-premium": {
+  "merchant": "Tile Premium",
+  "source_url": "https://support.life360.com/hc/en-us/articles/30582997380887-Cancel-Tile-Premium-or-Premium-Protect-Subscription",
+  "source_title": "Cancel Tile Premium or Premium Protect Subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your Tile subscription through the same method you used to subscribe (Apple App Store, Google Play Store, or Tile account via Life360.com ).",
+   "iOS (In-app) On your Apple device, go to Settings .",
+   "Tap on [Your Name] at the top of the screen.",
+   "Tap on Subscriptions ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "tinder": {
+  "merchant": "Tinder",
+  "source_url": "https://www.help.tinder.com/hc/en-us/articles/115003554466-Cancel-your-subscription",
+  "source_title": "Cancel your subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Whether you've found your match or just need a break, here's how you can cancel your subscription and avoid future charges.",
+   "iOS purchases If your order number starts with MK, it means you made your purchase on the Tinder app for iOS and are being billed by Apple .",
+   "To cancel on your Apple device: Open your Settings Tap your name at the top Tap Subscriptions Find and select the subscription you want to cancel Tap Cancel Subscription If you need any extra help, don't hesitate to reach out to Apple Support for more info.",
+   "Please note: Apple Pay and Web payment options are rolling out in select markets."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "todoist": {
+  "merchant": "Todoist",
+  "source_url": "https://get.todoist.help/hc/en-us/articles/6039358868380-Cancel-a-Todoist-subscription",
+  "source_title": "Cancel a Todoist subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "If you no longer need the benefits of Todoist\u2019s advanced features, you\u2019ve the option to cancel your subscription.",
+   "Learn how to cancel based on your Todoist plan and payment method.",
+   "Cancel a Pro subscription If you\u2019re on a free Pro trial instead of a paid subscription, follow the steps in Cancel your Pro trial instead.",
+   "In order to cancel your Pro subscription, simply stop your Pro plan from automatically renewing itself."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "typeform": {
+  "merchant": "Typeform",
+  "source_url": "https://help.typeform.com/hc/en-us/articles/360060804271-Cancel-your-Typeform-plan",
+  "source_title": "Cancel your Typeform plan",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "Is your campaign over, or have you just realized that you no longer need certain features of your Typeform plan?",
+   "You can cancel your plan by following the instructions in this article.",
+   "Check out this article if you're looking to upgrade or downgrade your plan.",
+   "When you cancel your Typeform plan, your forms may be closed to new responses, and any forms using paid features will go into trial mode ."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "uber-one": {
+  "merchant": "Uber One",
+  "source_url": "https://help.uber.com/en/riders/article/how-do-i-cancel-my-uber-one-membership?nodeId=2748c138-d8b9-49a7-b6ee-3e2bb07bae28",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Uber app > Account > Uber One",
+   "Manage Membership > End Membership"
+  ],
+  "channel": "app",
+  "notes": "Cancel 48h before renewal."
+ },
+ "washington-post": {
+  "merchant": "Washington Post",
+  "source_url": "https://helpcenter.washingtonpost.com/hc/en-us/articles/360000177571-How-to-cancel-your-digital-only-subscription",
+  "source_title": "How to cancel your digital-only subscription",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "You can cancel your subscription at any time.",
+   "If you purchased your subscription directly through The Washington Post, you can go to your My Post profile to cancel: https://www.washingtonpost.com/my-post/account/subscription/ When you cancel, we will stop charging your account the following billing cycle.",
+   "Your digital access will continue for the remainder of the current billing period.",
+   "Afterward, you will still be able to view a limited number of articles a month, just like any other visitor."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "xbox-game-pass": {
+  "merchant": "Xbox Game Pass",
+  "source_url": "https://support.xbox.com/en-US/help/subscriptions-billing/manage-subscriptions/cancel-xbox-game-pass-subscription",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Sign in to Microsoft account > Subscriptions",
+   "Select Game Pass > Manage > Cancel subscription"
+  ],
+  "channel": "web",
+  "notes": ""
+ },
+ "youtube-premium": {
+  "merchant": "YouTube Premium",
+  "source_url": "https://support.google.com/youtube/answer/6308278",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_fetch",
+  "evidence_excerpts": [
+   "Follow the steps in this article to cancel your YouTube Premium or YouTube Music Premium membership.",
+   "CANCEL NOW Cancel your paid membership If you signed up on Google Play billing, learn how to cancel your membership here .",
+   "Select your reason for canceling and then click next .",
+   "CANCEL NOW How to cancel your YouTube Premium or YouTube Music Premium membership Having trouble canceling?"
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "youtube-tv": {
+  "merchant": "YouTube TV",
+  "source_url": "https://support.google.com/youtubetv/answer/7129668",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Go to YouTube TV and select your profile photo",
+   "Settings > Membership > Manage",
+   "Cancel membership"
+  ],
+  "channel": "web",
+  "notes": "Pause (4 weeks\u20136 months) also available."
+ },
+ "zapier": {
+  "merchant": "Zapier",
+  "source_url": "https://help.zapier.com/hc/en-us/articles/44507749747341-Cancel-your-Zapier-plan",
+  "source_title": "Cancel your Zapier plan",
+  "verified_date": "2026-10-13",
+  "verification_method": "official_help_api",
+  "evidence_excerpts": [
+   "To cancel your Zapier subscription, you must select the Free Zapier plan.",
+   "There is no separate \"Cancel\" button.",
+   "If you decide to cancel, you will still have access to the features of your current plan until the end of that billing cycle.",
+   "Zapier subscriptions are non-refundable."
+  ],
+  "steps": null,
+  "channel": null,
+  "notes": "Steps not paraphrased; follow evidence excerpts / source page."
+ },
+ "zoom": {
+  "merchant": "Zoom",
+  "source_url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066687",
+  "source_title": null,
+  "verified_date": "2026-10-13",
+  "verification_method": "official_page_via_search",
+  "evidence_excerpts": [],
+  "steps": [
+   "Sign in to Zoom web portal as owner/billing admin",
+   "Plans and Billing > Current Plans",
+   "Cancel Plan and confirm"
+  ],
+  "channel": "web",
+  "notes": ""
+ }
+}
