@@ -7,7 +7,11 @@ def check(name, cond):
     else: fails.append(name)
 # data integrity
 d = json.load(open("playbooks.json"))
-check("100+ merchants", len(d) >= 100)
+check("100 merchants", len(d) >= 100)
+import re
+NAV = re.compile(r"sign in help|help center join|join netflix|skip to|cookie|explore premium|install app|help center|©|was this (article )?helpful|related articles|-->|'>|heading-label|a country must be selected|getting started|\u200b|\ufeff", re.I)
+dirty = [k for k, v in d.items() for t in (v["evidence_excerpts"] + (v["steps"] or [])) if NAV.search(t)]
+check("no nav boilerplate in excerpts/steps " + str(dirty[:5]), not dirty)
 for k, v in d.items():
     ok = v["source_url"].startswith("https://") and v["verified_date"] and (v["steps"] or len(v["evidence_excerpts"]) >= 2)
     if not ok: fails.append("bad playbook " + k)

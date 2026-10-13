@@ -1,5 +1,5 @@
 # CancelPath MCP
-Read-only MCP server with **101 verified cancellation playbooks** (Netflix, Adobe, Peloton, ChatGPT, Microsoft 365…).
+Read-only MCP server with **100 verified cancellation playbooks** (Netflix, Adobe, Peloton, ChatGPT, Microsoft 365…).
 Each entry stores the merchant's **own help-page URL** and a **verified date** (2026-10-13). Merchants that couldn't be verified on an official page were left out rather than guessed.
 It **never logs in, contacts merchants, or cancels anything.**
 
